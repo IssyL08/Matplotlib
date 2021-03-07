@@ -1,3 +1,3 @@
 # Matplotlib_HW
 Matplotlib HW Power of Plots
-Matplotlib homework
+matplot lib homework on Mouse Study data with graphic results
